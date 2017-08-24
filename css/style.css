@@ -1,3 +1,13 @@
 body {
-    background-color: re;
+    background-color: none;
+}
+
+#header {
+    width:100%;
+    background-color:beige;
+}
+
+#nav {
+    width:100%;
+    background-color:aqua;
 }
